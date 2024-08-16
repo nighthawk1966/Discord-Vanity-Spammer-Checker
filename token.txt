@@ -1,0 +1,5 @@
+tokenleri tek tek giricen böyle :
+
+TOKEN1
+TOKEN2
+TOKEN3
