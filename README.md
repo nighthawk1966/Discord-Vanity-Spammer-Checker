@@ -2,6 +2,7 @@
 
 # Checker ve spammer olur ikisi aynı kodda
 
+URL Banlıysa true yap değilse false, true olursa checker false olursa spammer olur.
 
 # Bilgi :
 
